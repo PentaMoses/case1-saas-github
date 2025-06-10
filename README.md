@@ -19,4 +19,4 @@ Projeto de destaque do portfólio profissional com foco em backend robusto (Djan
 
 ## 🔗 Link
 
-Acesse a página no GitHub Pages: [https://SEU_USUARIO.github.io/case1-saas-github](https://SEU_USUARIO.github.io/case1-saas-github)
+Acesse a página no GitHub Pages: [https://PentaMoses.github.io/case1-saas-github](https://PentaMoses.github.io/case1-saas-github)
